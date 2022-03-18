@@ -28,12 +28,14 @@ int main (){
 		C=P*Q;
 		cout << "Hasil "<< P << " x " << Q << " = "<<C;
 	}
+	
 	else if (Hasil == '4'){
 		cout << "\nMasukkan Bilangan Pertama : "; cin >> P;
 		cout << "Masukkan Bilangan Kedua : "; cin >> Q;
 		C=P/Q;
 		cout << "Hasil "<< P << " : " << Q << " = "<<C;
 	}
+	
 	else {
 		cout << "Pilihan tidak tersedia";
 	}
