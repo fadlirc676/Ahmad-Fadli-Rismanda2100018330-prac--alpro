@@ -5,8 +5,11 @@ int main (){
 	char Hasil;
 	float P,Q,C;
 	cout << "SILAHKAN PILIH MENU YANG ANDA INGINKAN\n";
+
 	cout << " \t1. PERTAMBAHAN \n";
+
 	cout << " \t2. PENGURANGAN \n";
+
 	cout << " \t3. PERKALIAN \n";
 	cout << " \t4. PEMBAGIAN \n";
 	cout << "\nPilih Menu No : "; cin >> Hasil;
